@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "testing.autoRun.delay": 3000,
+    "files.autoSaveDelay": 3000
+}
